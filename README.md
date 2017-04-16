@@ -1,4 +1,4 @@
 # uisleuth-downloads
 contains mac and win app releases
 
-adding for 0.12.0
+adding for 1.12.0
